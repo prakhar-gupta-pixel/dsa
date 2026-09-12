@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [2514-count-anagrams](https://github.com/prakhar-gupta-pixel/dsa/tree/master/2514-count-anagrams) |
 ## Math
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [2514-count-anagrams](https://github.com/prakhar-gupta-pixel/dsa/tree/master/2514-count-anagrams) |
 ## Combinatorics
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [2514-count-anagrams](https://github.com/prakhar-gupta-pixel/dsa/tree/master/2514-count-anagrams) |
 ## Fermat's Little Theorem
 |  |
@@ -35,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0152-maximum-product-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
