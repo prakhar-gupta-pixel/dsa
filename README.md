@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [2514-count-anagrams](https://github.com/prakhar-gupta-pixel/dsa/tree/master/2514-count-anagrams) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0152-maximum-product-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
