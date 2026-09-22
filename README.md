@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [2514-count-anagrams](https://github.com/prakhar-gupta-pixel/dsa/tree/master/2514-count-anagrams) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0540-single-element-in-a-sorted-array) |
