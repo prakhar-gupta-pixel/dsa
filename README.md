@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0066-plus-one) |
 | [2514-count-anagrams](https://github.com/prakhar-gupta-pixel/dsa/tree/master/2514-count-anagrams) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
