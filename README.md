@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0238-product-of-array-except-self) |
+| [0414-third-maximum-number](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0704-binary-search) |
@@ -79,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
