@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/prakhar-gupta-pixel/dsa/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prakhar-gupta-pixel/dsa/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
