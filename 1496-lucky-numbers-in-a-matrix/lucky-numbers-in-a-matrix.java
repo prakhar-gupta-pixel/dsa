@@ -1,38 +1,46 @@
-
-
-     
-
 class Solution {
-    public List<Integer> luckyNumbers (int[][] matrix) {
-        List<Integer> result = new ArrayList<>();
+    public List<Integer> luckyNumbers(int[][] matrix) {
+        ArrayList<Integer> rowmin=new ArrayList<>();
+        ArrayList<Integer> colmax=new ArrayList<>();
+        int left=0;
+        int right=matrix[0].length-1;
+        int top=0;
+        int bottom=matrix.length-1;
+        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
+        while(top<=bottom){
+            for(int i=left;i<=right;i++){
+                min=Math.min(min,matrix[top][i]);
 
-        for (int i = 0; i < matrix.length; i++) {
+            }
+            rowmin.add(min);
+            min=Integer.MAX_VALUE;
+            top++;
             
-            int minVal = Integer.MAX_VALUE;
-            int colIndex = -1;
-
-            for (int j = 0; j < matrix[i].length; j++) {
-                if (matrix[i][j] < minVal) {
-                    minVal = matrix[i][j];
-                    colIndex = j;
-                }
-            }
-
-         
-            boolean isMax = true;
-            for (int k = 0; k < matrix.length; k++) {
-                if (matrix[k][colIndex] > minVal) {
-                    isMax = false;
-                    break;
-                }
-            }
-
-            if (isMax) {
-                result.add(minVal);
-            }
         }
+        
+           top=0;
+         
+         while(left<=right){
+            for(int i=top;i<=bottom;i++){
+                max=Math.max(max,matrix[i][left]);
 
-        return result;
+            }
+            colmax.add(max);
+            max=Integer.MIN_VALUE;
+            left++;
+            
+        }
+       
+        rowmin.retainAll(colmax);
+        
+        return rowmin;
+        
+
+
+        
+
+
         
     }
 }
