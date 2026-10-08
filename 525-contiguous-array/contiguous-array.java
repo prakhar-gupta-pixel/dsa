@@ -17,14 +17,13 @@ class Solution {
                     prefix_sum+=1;
                 }
 
-                int needed = prefix_sum-0;
 
-                if (map.containsKey(needed)){
+                if (map.containsKey(prefix_sum)){
 
-                    max_len = Math.max(max_len,i-map.get(needed));
+                    max_len = Math.max(max_len,i-map.get(prefix_sum));
                 }
 
-                if(!map.containsKey(needed)){
+                if(!map.containsKey(prefix_sum)){
                     map.put(prefix_sum,i);
                 }
 
