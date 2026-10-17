@@ -1,54 +1,50 @@
 class Solution {
 
 
-    public  boolean binary( int [] arr, int target ){
-
-        int low = 0;
-        int high = arr.length-1;
-        boolean found = false;
-
-
-        while ( low<= high ){
-
-            int mid = low + (high-low)/2;
-
-            if ( arr[mid]== target){
-                found =true;
-
-                return found;
-            }
-            
-            else if ( arr[mid]>target){
-                high = mid-1;
-            }
-
-            else {
-                low = mid +1;
-            }
-        }
-        return found;
-    }
-
+    
 
     public boolean searchMatrix(int[][] matrix, int target) {
 
-        boolean found  = false;
+        int m = matrix.length;
         int n = matrix[0].length;
 
+        int a = m-1;
+        int b = 0;
 
-        for ( int i =0 ; i< matrix.length;i++){
-
-            if (matrix[i][0]<= target && target<=matrix[i][n-1]){
-               boolean result =  binary(matrix[i],target);
-
-               if(result!=false){
-                return result;
-               }
-            }
+        int start = matrix[a][b];
+        if(start == target){
+            return true;
+        }
 
 
-        } 
+        while((a>=0)&&(b<n)){
+
+           start = matrix[a][b];
+
+
+            if(start == target){
+            return true;
+        }
+    
+
+        if (start>target){
+            a--;
+        }
+
+        else if(start<target){
+            b++;
+
+        }
+
+        
+
+
+
+        }
 
         return false;
+
+
+        
     }
 }
